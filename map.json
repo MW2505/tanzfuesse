@@ -78,6 +78,12 @@
          "id":9,
          "name":"Tanzflaeche Disco Fox",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/99644510653?pwd=aCtIb25VajF1MS8rTmFmdWJYRjF1Zz09"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":90,
