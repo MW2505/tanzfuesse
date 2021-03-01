@@ -78,12 +78,6 @@
          "id":9,
          "name":"Tanzflaeche Disco Fox",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"..\/Floor1\/floor1.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":90,
