@@ -64,6 +64,12 @@
          "id":25,
          "name":"Tanzflaeche",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"tanzfuesse"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":90,
