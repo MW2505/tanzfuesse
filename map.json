@@ -88,7 +88,7 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"helene.mp3"
+                 "value":"discofoxradio.pls"
                 }],
          "type":"tilelayer",
          "visible":true,
