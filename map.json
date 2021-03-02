@@ -88,7 +88,7 @@
                 {
                  "name":"playaudio",
                  "type":"string",
-                 "value":"helene.mp3"
+                 "value":"./helene.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
