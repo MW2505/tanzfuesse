@@ -52,9 +52,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/5rjVflv-O3A"
+                 "value":"tanzfuesse"
                 }],
          "type":"tilelayer",
          "visible":true,
