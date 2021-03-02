@@ -201,6 +201,8 @@
          "height":60,
          "id":24,
          "name":"Logo",
+         "offsetx":638.666666666667,
+         "offsety":959.333333333333,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
