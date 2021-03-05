@@ -66,14 +66,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig:",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tanzfuesse"
+                 "value":"tanzfuesse#config.startWithAudioMuted=true"
                 }],
          "type":"tilelayer",
          "visible":true,
